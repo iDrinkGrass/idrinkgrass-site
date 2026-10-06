@@ -2,9 +2,26 @@
 font-size: 55px;
 text-align: center;
 color: white;
+margin-top: -40px;
 }
 
 body {
 background-color: #17263a;
 
+}
+
+.tinyTitle {
+font-family: "Public Sans", sans-serif;
+font-size: 55px;
+text-align: center;
+color: white;
+}
+
+.irlname {
+font-family: "Public Sans", sans-serif;
+font-size: 20px;
+text-align: center;
+color: white;
+margin-top: -80px;
+margin-left: 367px;
 }
