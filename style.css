@@ -25,3 +25,11 @@ color: white;
 margin-top: -80px;
 margin-left: 367px;
 }
+
+.pagelink {
+color: #5f6487;
+font-family: "Public Sans", sans-serif;
+font-size: 25px;
+margin-left: 20px;
+text-decoration: none;
+}
