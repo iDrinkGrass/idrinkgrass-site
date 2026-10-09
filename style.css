@@ -33,3 +33,17 @@ font-size: 25px;
 margin-left: 20px;
 text-decoration: none; 
 }
+
+.school {
+background-color: #5f6487;
+width: 200px;
+border-radius: 10px;
+height: 30px;
+display: flex;
+justify-content: center;
+align-items: center;
+color: black;
+margin: 0;
+margin-left: 450;
+margin-top: -30px;
+}
